@@ -1,3 +1,2 @@
-# How to use
-Clone this repository, run <i>npm run start</i> within <i>minimalistic-ts-boilerplate</i> folder.
-Typescript ready to use!
+# Description
+Typescript project which using node server; javascript-keyboard-checker stands for checking keyboard (whithout numpad)
